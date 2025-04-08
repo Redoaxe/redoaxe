@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There!+I'm+Daniel!;Olá!+Sou+Daniel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There!+I'm+Daniel!;Olá!+Sou+Daniel!;今日は!+ダニエルです。)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redoaxe&label=Profile%20views&color=0e75b6&style=flat" alt="redoaxe" /> </p>
 
